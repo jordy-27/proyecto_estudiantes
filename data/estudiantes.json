@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Roca",
+    "email": "juanr89@gmail.com",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matematica": [
+        18.0
+      ]
+    },
+    "materias": [
+      "Matematica"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Pedro",
+    "apellido": "Sanchez",
+    "email": "pedros12@gmail.com",
+    "carnet": "EST2026002",
+    "notas": {
+      "Matematica": [
+        17.0,
+        13.0
+      ]
+    },
+    "materias": [
+      "Matematica"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Mery",
+    "apellido": "Romero",
+    "email": "meryr12@gmail.com",
+    "carnet": "EST2026003",
+    "notas": {
+      "Lengua": [
+        15.0
+      ]
+    },
+    "materias": [
+      "Lengua"
+    ]
+  }
+]
